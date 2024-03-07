@@ -1,0 +1,3 @@
+[submodule "web-merchant"]
+	path = web-merchant
+	url = https://github.com/MGGokami/-Payment_Platform.git
